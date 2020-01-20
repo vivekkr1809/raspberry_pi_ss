@@ -9,6 +9,7 @@ import random
 import time
 import sys
 import getopt
+import pickle
 
 # MCC daq modules
 import uldaq
@@ -44,7 +45,7 @@ def main(argv):
 	gage_factor = 2.0
 	# The amplifier gain
 	gain = 200.
-	
+
 	return 0
 
 if __name__ == '__main__':
