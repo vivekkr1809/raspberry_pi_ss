@@ -1,6 +1,8 @@
 # uldaq
 #
 uldaq-1.1.2/
+baseline_vectors/
+#measurement_vectors/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
