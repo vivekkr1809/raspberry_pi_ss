@@ -20,6 +20,19 @@ TO DO:
 1. Read the baseline and store the baseline values
 """
 
+def record_measurements():
+	"""Function to record the measurements
+	"""
+	pass
+
+def load_baseline():
+	pass
+
+def record_baseline():
+	"""Function to record the baseline measurement at time 0
+	"""
+	pass
+
 
 def main(argv):
 	current_time = time.localtime()
