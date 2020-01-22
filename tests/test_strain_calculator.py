@@ -1,6 +1,6 @@
 import pytest
 
-from modules.strain_calculator import StrainCalculator
+from modules.strain_calculator_file import StrainCalculator
 
 def test_no_strain():
 	_eps = 1.0e-4
